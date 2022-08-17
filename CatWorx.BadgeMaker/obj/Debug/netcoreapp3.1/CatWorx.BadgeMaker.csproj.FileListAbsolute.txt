@@ -3,10 +3,12 @@
 /Users/matthewwilliams/Development/c#/employee-security-badges/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.runtimeconfig.dev.json
 /Users/matthewwilliams/Development/c#/employee-security-badges/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.dll
 /Users/matthewwilliams/Development/c#/employee-security-badges/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.pdb
-/Users/matthewwilliams/Development/c#/employee-security-badges/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.csprojAssemblyReference.cache
 /Users/matthewwilliams/Development/c#/employee-security-badges/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.AssemblyInfoInputs.cache
 /Users/matthewwilliams/Development/c#/employee-security-badges/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.AssemblyInfo.cs
 /Users/matthewwilliams/Development/c#/employee-security-badges/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
 /Users/matthewwilliams/Development/c#/employee-security-badges/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.dll
 /Users/matthewwilliams/Development/c#/employee-security-badges/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.pdb
 /Users/matthewwilliams/Development/c#/employee-security-badges/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.genruntimeconfig.cache
+/Users/matthewwilliams/Development/c#/employee-security-badges/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker
+/Users/matthewwilliams/Development/c#/employee-security-badges/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.csproj.AssemblyReference.cache
+/Users/matthewwilliams/Development/c#/employee-security-badges/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.GeneratedMSBuildEditorConfig.editorconfig
