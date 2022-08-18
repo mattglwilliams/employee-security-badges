@@ -12,9 +12,9 @@ namespace CatWorx.BadgeMaker
             {
                 Console.WriteLine("Please enter a name: (leave empty to exit): ");
 
-                string input = Console.ReadLine();
+                string firstName = Console.ReadLine();
 
-                if (input == "")
+                if (firstName == "")
                 {
                     break;
                 }
