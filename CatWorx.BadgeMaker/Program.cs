@@ -18,7 +18,13 @@ namespace CatWorx.BadgeMaker
                 {
                     break;
                 }
-                Employee currentEmployee = new Employee(input);
+                Console.Write("Enter last name: ");
+                string lastName = Console.ReadLine();
+                Console.Write("Enter ID: ");
+                int id = Console.ReadLine();
+                Console.Write("Enter Photo URL:");
+                string photoUrl = Console.ReadLine();
+                Employee currentEmployee = new Employee(firstName, lastName, id, photoUrl);
                 employees.Add(currentEmployee);
             }
             return employees;
