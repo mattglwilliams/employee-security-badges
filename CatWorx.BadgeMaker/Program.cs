@@ -7,7 +7,7 @@ namespace CatWorx.BadgeMaker
     {
         static List<string> GetEmployees()
         {
-            List<string> employees = new List<string>();
+            List<string> employees = new List<Employee>();
             while (true)
             {
                 Console.WriteLine("Please enter a name: (leave empty to exit): ");
